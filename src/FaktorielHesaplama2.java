@@ -19,6 +19,7 @@ public class FaktorielHesaplama2 {
 
             FaKtorielSonuc *= i;
             if (i!= 1) {
+
                 System.out.print(i + " * ");
             } else {
                 System.out.print(i + " = ");
