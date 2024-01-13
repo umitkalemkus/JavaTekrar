@@ -8,6 +8,10 @@ public class FaktorielHesaplama {
         System.out.println("Bir sayi giriniz");
         int sayi = scanner.nextInt();
 
+
+
+
+
         int factorielSonuc= 1;
 
 
